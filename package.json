@@ -4,14 +4,16 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "npm run translate && next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "translate": "locadex translate"
   },
   "dependencies": {
+    "gt-next": "^5.2.39",
+    "next": "15.3.4",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0",
-    "next": "15.3.4"
+    "react-dom": "^19.0.0"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
