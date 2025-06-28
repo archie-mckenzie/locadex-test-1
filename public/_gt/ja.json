@@ -1,0 +1,142 @@
+{
+  "fc0f0153077996c8dcc8259cb5628b41924b87301ff4f80a7f847a06d4d62369": [
+    "create next appによって生成されました"
+  ],
+  "9db06ff0f51aad027d77b69649c0cffec61669dbbdfa0b67686696c4932fa0f9": {
+    "type": "a",
+    "props": {
+      "data-_gt": {
+        "id": 1
+      },
+      "children": [
+        {
+          "type": "Image",
+          "props": {
+            "data-_gt": {
+              "id": 2
+            }
+          }
+        },
+        "今すぐデプロイ"
+      ]
+    }
+  },
+  "11aaaac8fb0b0ad228fb0779cc6b27c16af750eb092df5dc698a09b9f044575e": {
+    "type": "a",
+    "props": {
+      "data-_gt": {
+        "id": 1
+      },
+      "children": "ドキュメントを読む"
+    }
+  },
+  "1ec7d4b64c50f958c5e9ce970534900b48e064533277e45fec6c2021534f8332": [
+    "Create Next App"
+  ],
+  "32d17e274b9568b7df49632aa3e197f70616412e93bd86a31c52e690c2c54603": {
+    "type": "footer",
+    "props": {
+      "data-_gt": {
+        "id": 1
+      },
+      "children": [
+        {
+          "type": "a",
+          "props": {
+            "data-_gt": {
+              "id": 2
+            },
+            "children": [
+              {
+                "type": "Image",
+                "props": {
+                  "data-_gt": {
+                    "id": 3
+                  }
+                }
+              },
+              "学習"
+            ]
+          }
+        },
+        {
+          "type": "a",
+          "props": {
+            "data-_gt": {
+              "id": 4
+            },
+            "children": [
+              {
+                "type": "Image",
+                "props": {
+                  "data-_gt": {
+                    "id": 5
+                  }
+                }
+              },
+              "例"
+            ]
+          }
+        },
+        {
+          "type": "a",
+          "props": {
+            "data-_gt": {
+              "id": 6
+            },
+            "children": [
+              {
+                "type": "Image",
+                "props": {
+                  "data-_gt": {
+                    "id": 7
+                  }
+                }
+              },
+              "nextjs.org へ →"
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "8305fcbd04495f5fd3f1b48965a89d411bba5d010160df78cdf25e21424f2b35": {
+    "type": "ol",
+    "props": {
+      "data-_gt": {
+        "id": 1
+      },
+      "children": [
+        {
+          "type": "li",
+          "props": {
+            "data-_gt": {
+              "id": 2
+            },
+            "children": [
+              {
+                "type": "code",
+                "props": {
+                  "data-_gt": {
+                    "id": 3
+                  },
+                  "children": "src/app/page.js"
+                }
+              },
+              "を編集して始めましょう。"
+            ]
+          }
+        },
+        {
+          "type": "li",
+          "props": {
+            "data-_gt": {
+              "id": 4
+            },
+            "children": "保存すると変更が即座に反映されます。"
+          }
+        }
+      ]
+    }
+  }
+}
